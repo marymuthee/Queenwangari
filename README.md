@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mary Muthee
-- 👀 I’m interested in Geospatial Data Analysis and web development
-- 🌱 I’m currently learning Geospatial information communication and technology at Technical University of Kenya
+- 👀 I’m interested in GIS, Remote Sensing, Spatial Data Anlytics, Spatial Modelling, Cartography, Web-mapping
 - 💞️ I’m looking to collaborate on any geospatial related projects or any other idea that lies within my interests
 - 📫 How to reach me :EMAIL @ queenwangari.m@gmail.com
 
